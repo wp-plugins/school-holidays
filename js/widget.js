@@ -1,5 +1,5 @@
     function School_Holidays_getschools(e) {
-      jQuery.get('../wp-content/plugins/mySchoolHolidays/ajax.php', {text:e.value}, function(data) {
+      jQuery.get('../wp-content/plugins/school-holidays/ajax.php', {text:e.value}, function(data) {
         jQuery(".ds-list").html(data);
         if (data != "") {
           jQuery(".ds-results").show();

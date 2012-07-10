@@ -6,6 +6,8 @@ Tested up to: 3.2
 Stable tag: 1.0
 Version: 1.0
 
+Include a school holiday countdown or calendar widget showing school holiday and term dates in a blog post or in your sidebar.
+
 == Description ==
 
 Embed a school holiday countdown or calendar widget showing school holiday and term dates in a blog post or in your sidebar.  

@@ -4,7 +4,6 @@ Tags: Holiday Dates Holidays Schools School District Term Semester
 Requires at least: 3.0
 Tested up to: 3.2
 Stable tag: 1.0
-Version: 1.0
 
 Include a school holiday countdown or calendar widget showing school holiday and term dates in a blog post or in your sidebar.
 

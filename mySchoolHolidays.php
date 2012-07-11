@@ -344,7 +344,7 @@ class School_Holidays_Widget extends WP_Widget {
     <!-- Widget Title: Text Input -->
     <p>
       <label for="<?php echo $this->get_field_id( 'title' ); ?>"><?php _e('Title:', 'hybrid'); ?></label>
-      <input id="<?php echo $this->get_field_id( 'title' ); ?>" name="<?php echo $this->get_field_name( 'title' ); ?>" value="<?php echo $instance['title']; ?>" style="width:100%;" onclick="clicker();" />
+      <input id="<?php echo $this->get_field_id( 'title' ); ?>" name="<?php echo $this->get_field_name( 'title' ); ?>" value="<?php echo $instance['title']; ?>" style="width:100%;" />
     </p>
 
     <!-- Your School Name: Text Input -->
